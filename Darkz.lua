@@ -11395,7 +11395,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "Kanon Hub",
+    Name = "Dark Hub",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://4483345998",
     Time = 5
